@@ -8,8 +8,8 @@ I'm a software developer specializes in Python.
 
 * 🌍  I'm based in Chennai, TN, IN
 * ✉️  You can contact me at [janardhan555jayanth@outlook.com](mailto:janardhan555jayanth@outlook.com)
-* 🧠  I'm learning DSA
-* 🤝  I'm open to collaborating on projects
+* 🧠  I'm learning DSA and building projects
+* 🤝  I'm always open to collaborating on projects
 * ⚡  aggregation of marginal gains
 
 ### Skills
