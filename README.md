@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Janardhan Jayanth</h1>
 <h3 align="center">A Programmer from India</h3>
 
-- 🔭 I’m currently working on **DSA and personal projects**
+- 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **DSA & JS**
 
 - 💬 Ask me about **Python, HTML, CSS**
 
